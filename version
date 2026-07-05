@@ -1,0 +1,6 @@
+{
+  "version": "6.1",
+  "download_url": "https://github.com/TURKOJAN-sys/TURKOJAN/releases/latest",
+  "release_date": "2026-07-05",
+  "changelog": "- Debugger modu eklendi (hata logları server'a gönderilir)\n- OpenGL kontrolü (driver yoksa GUI atlanır)\n- Çoklu client bağlantı sorunu giderildi\n- Performans iyileştirmeleri"
+}
