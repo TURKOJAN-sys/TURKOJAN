@@ -49,7 +49,7 @@ TURKOJAN, ilk olarak 2003 yılında **Delphi** ile yazılmış efsanevi bir Tür
 - **Overlay Sistemi** - Bin dosyalarını exe'ye gömme
 - **Junk Code** - AV atlatma için dosya şişirme
 - **RLO Tool** - Dosya uzantısı gizleme (`.exe` → `.pdf` gibi)
-- **GUI Builder** - Sürükle-bırak arayüz tasarımı
+- **GUI Editör** - Sürükle-bırak arayüz tasarımı
 - **Checker Sistemi** - Token/hesap doğrulama (API ile)
 
 ### 🎙️ Kayıt & İzleme
@@ -112,14 +112,14 @@ text
 ## 📦 Kurulum
 
 
-# Repoyu klonla
-git clone https://github.com/TURKOJAN-sys/TURKOJAN.git
+source code link.txt içindeki bağlantıya gidip zip dosyasını indirip çıkartın 
 
 # C# paneli aç (Visual Studio 2022+)
 TURKOJAN.sln
 
 # Go client'ı derle
 cd client
-go build -ldflags="-s -w -H windowsgui" -o client.exe birlesti.go
-⚠️ Sorumluluk Reddi
+go build -ldflags="-s -w -H windowsgui" -o client.exe client.go
+
+          ⚠️ Sorumluluk Reddi
 Bu araç yalnızca eğitim ve yetkili güvenlik testleri amacıyla geliştirilmiştir. Yazar, bu aracın kötüye kullanımından doğacak hiçbir sorumluluğu kabul etmez.
