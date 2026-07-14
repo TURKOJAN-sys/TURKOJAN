@@ -1,5 +1,5 @@
 {
-  "version": "6.2",
+  "version": "6.3",
   "download_url": "https://github.com/TURKOJAN-sys/TURKOJAN/releases/latest",
   "release_date": "2026-07-14",
   "changelog": "- Admin Yetki İsteği (builder'dan kontrol edilir)\n- Ses Seviyesi Sabitleme (istenen seviyede kilitler)\n- Debugger modu geliştirildi (hata logları JSON olarak kaydedilir)\n- Performans iyileştirmeleri ve bug fix'ler"
